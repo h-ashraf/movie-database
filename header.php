@@ -4,6 +4,7 @@
     echo <<<_END
         <head>
             <title>Movie Database</title>
+            <link rel='stylesheet' id='stylesheet' href='css/stylesheet.css'"
         </head>
     
         <body>
