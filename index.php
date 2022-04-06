@@ -1,6 +1,5 @@
 <?php
 
-    echo'<!DOCTYPE html><html lang="en">';
     include('header.php');
 
     echo <<<_END

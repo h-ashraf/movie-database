@@ -3,6 +3,9 @@
     session_start();
 
     echo <<<_END
+
+        <!DOCTYPE html>
+        <html lang="en">
         <head>
             <title>Movie Database</title>
             <link rel='stylesheet' id='stylesheet' href='css/stylesheet.css'"
