@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<?php
-        require_once "credentials.php";
+        require_once "config.php";
         session_start();
         ?>
 	<head>
